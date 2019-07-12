@@ -1,2 +1,0 @@
-# ReduxForm
-Created with CodeSandbox
